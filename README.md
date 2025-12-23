@@ -33,14 +33,9 @@ npx serve -l 8080
 # Access at http://localhost:8080
 ```
 
-### Option 3: Deploy to Public URL
+### Option 3: Public URL
 
-For testing with Tavily or other web search tools, deploy to a publicly accessible URL:
-
-- **Vercel**: `npx vercel`
-- **Netlify**: Drag and drop the folder
-- **GitHub Pages**: Push to a repo and enable Pages
-- **Cloudflare Pages**: Connect your repo
+https://idpr.onrender.com/
 
 ## 📁 Structure
 
